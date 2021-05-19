@@ -1,0 +1,1001 @@
+,carnet,sexo,etnicidad,nivelEducPadres,matematicas,algoritmos,sociales
+0,167909,female,group A,some high school,53,71,64
+1,211840,male,group E,some college,72,61,58
+2,106033,male,group D,some college,70,79,77
+3,150148,female,group D,some college,76,84,89
+4,110323,male,group D,some high school,81,84,87
+5,121995,female,group B,master's degree,72,83,77
+6,183432,female,group A,bachelor's degree,49,63,64
+7,136753,male,group B,bachelor's degree,79,81,76
+8,66450,female,group D,some college,59,66,72
+9,100882,female,group A,high school,57,65,61
+10,209670,female,group C,some college,90,94,100
+11,94678,male,group B,associate's degree,93,78,83
+12,127752,female,group C,associate's degree,60,75,71
+13,70249,male,group C,some high school,77,75,77
+14,167288,female,group C,high school,50,73,63
+15,106374,female,group D,some high school,62,74,68
+16,126356,female,group D,bachelor's degree,66,61,65
+17,215503,male,group C,high school,82,71,71
+18,94377,female,group C,some high school,65,80,81
+19,156336,male,group B,high school,68,65,52
+20,174104,female,group C,master's degree,76,83,88
+21,210494,female,group D,high school,74,85,92
+22,115780,male,group C,bachelor's degree,61,60,61
+23,137941,male,group C,associate's degree,69,63,58
+24,93282,female,group B,some high school,72,87,90
+25,77500,female,group E,bachelor's degree,72,98,94
+26,140695,male,group C,some college,60,54,52
+27,150879,male,group C,some high school,67,72,69
+28,196463,female,group C,some college,72,79,75
+29,186732,female,group D,bachelor's degree,59,54,62
+30,189640,female,group B,associate's degree,72,76,82
+31,219245,male,group E,some college,70,56,57
+32,80942,female,group E,some high school,72,71,79
+33,184872,female,group A,associate's degree,85,88,86
+34,191807,male,group D,some college,67,67,64
+35,212745,male,group E,master's degree,92,94,83
+36,139412,male,group B,some high school,89,79,74
+37,111916,female,group B,some high school,55,65,65
+38,178974,male,group C,some college,77,76,78
+39,199611,female,group E,bachelor's degree,94,91,93
+40,161175,male,group B,some college,58,71,64
+41,94667,male,group B,high school,63,66,61
+42,186607,male,group D,high school,60,63,63
+43,126500,male,group D,high school,63,54,54
+44,156129,male,group A,associate's degree,76,72,68
+45,216201,female,group D,associate's degree,77,73,78
+46,165855,female,group B,high school,54,62,62
+47,174979,female,group C,some college,70,73,83
+48,204095,female,group C,high school,75,85,77
+49,120673,female,group C,associate's degree,66,79,78
+50,158377,female,group D,associate's degree,73,88,90
+51,102352,male,group C,high school,64,65,55
+52,132263,female,group C,some college,55,74,69
+53,96163,male,group E,bachelor's degree,100,81,76
+54,90761,female,group C,bachelor's degree,79,82,90
+55,95677,female,group C,some college,63,78,81
+56,165160,female,group D,some high school,48,56,53
+57,79345,female,group D,some high school,62,70,65
+58,85138,female,group E,bachelor's degree,75,81,84
+59,144536,male,group C,associate's degree,88,72,71
+60,192627,male,group C,associate's degree,68,68,64
+61,75405,male,group D,high school,63,59,52
+62,193869,female,group D,associate's degree,52,58,63
+63,151641,female,group B,some high school,44,52,53
+64,190639,male,group B,associate's degree,74,66,67
+65,192035,male,group C,some high school,65,65,66
+66,180288,female,group C,high school,61,79,78
+67,120503,male,group B,some college,92,90,95
+68,178775,male,group B,some high school,78,71,68
+69,186993,female,group A,some high school,67,70,72
+70,211358,female,group B,bachelor's degree,59,69,75
+71,174344,female,group C,associate's degree,52,52,55
+72,93956,female,group D,some high school,62,65,67
+73,202003,female,group D,high school,58,62,67
+74,197753,male,group C,some college,41,33,31
+75,139344,male,group B,some college,86,83,75
+76,79492,female,group E,high school,46,40,41
+77,181473,male,group C,bachelor's degree,61,55,55
+78,97229,male,group C,bachelor's degree,71,72,71
+79,194298,female,group C,associate's degree,44,56,54
+80,201111,female,group A,associate's degree,53,70,68
+81,79225,female,group D,some high school,71,81,82
+82,97504,male,group D,high school,71,55,51
+83,104641,male,group C,some college,80,82,86
+84,180762,female,group D,some high school,57,74,74
+85,80809,male,group D,associate's degree,94,82,82
+86,171334,female,group C,bachelor's degree,69,88,81
+87,131178,male,group C,high school,53,59,53
+88,138958,female,group B,high school,22,40,39
+89,189772,male,group C,high school,74,67,62
+90,85515,female,group E,some college,63,71,68
+91,175928,male,group A,associate's degree,72,78,74
+92,90104,female,group E,master's degree,55,54,63
+93,120812,male,group C,high school,65,58,52
+94,107735,male,group C,high school,35,35,30
+95,91979,male,group D,associate's degree,86,71,73
+96,130567,male,group A,high school,85,77,76
+97,183452,male,group D,some college,90,80,75
+98,208975,male,group D,high school,86,74,76
+99,193899,female,group E,associate's degree,62,65,76
+100,202568,male,group D,some high school,62,61,55
+101,195105,female,group A,some college,54,77,83
+102,206195,female,group E,high school,72,69,75
+103,182398,female,group B,some college,80,80,84
+104,147176,male,group C,high school,85,74,70
+105,89692,female,group B,bachelor's degree,67,85,93
+106,161247,male,group A,associate's degree,63,64,60
+107,140318,male,group C,high school,89,91,88
+108,91857,male,group C,some college,66,67,64
+109,167574,male,group B,some college,60,69,63
+110,206144,male,group C,high school,48,46,38
+111,110702,female,group C,some college,70,78,83
+112,115462,male,group C,some college,81,79,77
+113,153459,female,group B,some college,50,61,62
+114,216090,male,group B,some college,34,45,40
+115,209125,male,group C,some college,53,47,53
+116,168393,female,group C,some high school,38,57,51
+117,176974,male,group B,associate's degree,97,96,96
+118,163407,male,group C,some high school,39,29,26
+119,214189,male,group E,some high school,93,84,84
+120,113253,female,group D,associate's degree,67,75,74
+121,169472,female,group D,some high school,77,78,80
+122,148004,male,group B,high school,61,53,55
+123,182343,male,group E,high school,59,50,46
+124,86602,male,group C,bachelor's degree,70,69,67
+125,184029,male,group C,some college,85,86,78
+126,101423,female,group B,high school,52,58,51
+127,163117,female,group B,bachelor's degree,67,63,61
+128,168423,male,group D,associate's degree,81,85,87
+129,141169,male,group B,associate's degree,45,52,48
+130,172593,male,group D,associate's degree,82,82,87
+131,219173,male,group C,some college,74,73,73
+132,152455,male,group E,high school,81,78,68
+133,184388,male,group C,master's degree,71,59,61
+134,164121,male,group C,some high school,42,46,32
+135,69501,male,group D,some college,56,65,63
+136,93104,female,group D,high school,80,83,84
+137,213396,female,group C,some high school,63,66,69
+138,211058,female,group E,associate's degree,71,69,69
+139,115707,female,group C,some college,65,68,73
+140,92253,male,group B,some high school,35,36,31
+141,156983,female,group A,associate's degree,82,92,90
+142,184991,female,group E,associate's degree,72,86,86
+143,163470,female,group D,some high school,55,68,71
+144,120266,female,group A,associate's degree,58,66,69
+145,215134,female,group D,master's degree,56,64,64
+146,150959,female,group E,some high school,71,78,83
+147,204762,male,group C,associate's degree,67,54,52
+148,130667,male,group E,some high school,73,58,63
+149,80753,female,group C,associate's degree,53,57,63
+150,173008,female,group C,associate's degree,77,87,82
+151,198511,female,group C,high school,62,62,58
+152,108026,male,group E,high school,81,61,59
+153,80109,female,group B,bachelor's degree,56,70,68
+154,97999,male,group E,some high school,60,58,49
+155,78601,male,group E,bachelor's degree,100,100,100
+156,136273,male,group C,some college,51,48,50
+157,147055,female,group D,bachelor's degree,79,80,89
+158,124299,female,group C,high school,62,77,74
+159,139530,female,group B,high school,87,92,96
+160,192705,male,group C,master's degree,69,56,62
+161,173661,male,group B,some college,44,45,42
+162,126126,female,group C,high school,57,73,70
+163,179829,male,group C,bachelor's degree,73,69,68
+164,157621,male,group B,high school,72,72,70
+165,130427,male,group D,some college,95,86,85
+166,75911,male,group A,associate's degree,47,52,45
+167,180393,male,group D,high school,59,72,65
+168,193707,female,group D,bachelor's degree,43,60,62
+169,158139,female,group C,associate's degree,70,66,66
+170,175381,male,group D,associate's degree,74,68,68
+171,171792,male,group C,master's degree,85,75,83
+172,160059,female,group D,associate's degree,67,72,77
+173,138083,male,group E,master's degree,59,49,48
+174,109340,male,group A,some college,66,67,67
+175,122570,female,group E,associate's degree,72,81,73
+176,175133,female,group D,some high school,83,96,87
+177,157543,female,group E,associate's degree,69,75,74
+178,125552,female,group E,some college,91,100,100
+179,180618,female,group B,some college,23,46,43
+180,77678,male,group B,high school,88,85,84
+181,108147,male,group C,some college,44,47,34
+182,199938,female,group A,some high school,69,72,70
+183,200077,female,group C,some college,63,79,74
+184,193834,female,group A,bachelor's degree,69,74,79
+185,136403,female,group B,some high school,73,89,84
+186,69322,female,group D,high school,33,39,39
+187,106610,male,group C,some high school,84,79,73
+188,131104,female,group C,some high school,87,80,84
+189,207519,male,group D,high school,67,68,62
+190,73033,female,group D,master's degree,88,89,94
+191,86581,male,group E,bachelor's degree,80,69,64
+192,83317,female,group C,some college,86,84,84
+193,136098,female,group B,some college,47,50,53
+194,157078,female,group D,bachelor's degree,47,55,54
+195,140376,female,group B,some college,54,61,62
+196,184882,male,group C,some college,96,92,92
+197,94146,female,group C,bachelor's degree,80,80,80
+198,73020,male,group B,associate's degree,70,81,79
+199,94329,female,group D,associate's degree,81,91,98
+200,143074,female,group B,some high school,59,78,70
+201,140412,female,group B,some college,72,75,68
+202,95946,female,group C,high school,81,88,86
+203,137376,female,group B,master's degree,52,56,61
+204,208362,female,group D,bachelor's degree,66,78,80
+205,144926,male,group C,some high school,41,35,37
+206,176515,female,group E,associate's degree,80,87,83
+207,140172,female,group C,some high school,64,83,71
+208,182262,male,group E,some college,100,80,82
+209,153493,male,group C,some college,84,67,68
+210,69178,male,group D,associate's degree,65,56,61
+211,152832,female,group C,master's degree,91,95,98
+212,94330,female,group D,associate's degree,68,79,90
+213,125215,male,group E,some college,64,54,57
+214,126637,female,group E,high school,64,65,66
+215,182794,male,group B,high school,100,88,90
+216,196487,female,group C,associate's degree,71,82,79
+217,218844,female,group D,some high school,69,85,92
+218,133605,male,group D,bachelor's degree,65,63,61
+219,69593,female,group C,high school,57,79,70
+220,119763,female,group D,some high school,68,89,82
+221,87103,male,group C,some high school,84,86,80
+222,209001,male,group B,associate's degree,34,45,39
+223,191861,female,group C,associate's degree,38,39,38
+224,193222,male,group C,associate's degree,75,73,68
+225,156742,female,group D,high school,61,70,72
+226,131042,male,group D,master's degree,90,82,85
+227,103245,female,group C,high school,44,52,50
+228,219540,female,group C,high school,77,76,70
+229,205926,male,group B,associate's degree,55,63,62
+230,92238,female,group A,associate's degree,70,69,73
+231,108420,female,group D,some high school,69,77,80
+232,68381,female,group B,some high school,71,73,68
+233,115978,female,group E,some high school,32,51,47
+234,123357,female,group B,some college,53,57,52
+235,92243,male,group E,some college,70,62,59
+236,165951,female,group D,some high school,74,79,81
+237,180723,male,group C,some high school,66,62,64
+238,170598,male,group E,some college,85,75,68
+239,75905,female,group D,some high school,44,61,65
+240,108042,female,group B,some high school,63,72,64
+241,104062,female,group E,some college,60,61,56
+242,179775,female,group C,high school,71,82,84
+243,92186,female,group C,associate's degree,70,81,74
+244,128201,female,group C,bachelor's degree,51,61,55
+245,143153,male,group C,high school,46,54,45
+246,97897,male,group E,high school,76,73,64
+247,147422,male,group B,some college,58,57,54
+248,114460,male,group E,associate's degree,76,70,74
+249,204048,male,group C,master's degree,71,73,71
+250,86292,female,group C,some high school,22,30,35
+251,200644,male,group E,some college,87,84,85
+252,106641,female,group B,some college,58,58,61
+253,114398,male,group B,some high school,63,69,63
+254,207598,female,group B,high school,55,63,68
+255,98657,female,group C,high school,53,67,73
+256,158638,male,group D,high school,83,72,73
+257,195815,male,group D,some high school,64,66,62
+258,92587,female,group D,high school,48,56,50
+259,129314,female,group C,some college,62,70,75
+260,202593,male,group C,associate's degree,64,63,69
+261,68929,female,group C,associate's degree,92,100,100
+262,180157,female,group C,high school,74,78,83
+263,78902,female,group D,some college,54,54,57
+264,137768,female,group A,bachelor's degree,66,68,70
+265,197817,female,group E,some college,83,91,94
+266,98970,female,group D,some college,45,57,58
+267,127822,male,group C,associate's degree,63,65,60
+268,175015,male,group C,some college,68,60,59
+269,99702,female,group B,some college,54,58,61
+270,183625,female,group A,high school,55,73,70
+271,91478,male,group C,some college,69,57,58
+272,88146,male,group B,high school,57,50,46
+273,147220,male,group E,bachelor's degree,89,84,81
+274,195995,female,group D,associate's degree,82,97,91
+275,189559,male,group B,bachelor's degree,79,79,83
+276,125882,female,group A,bachelor's degree,66,86,79
+277,98755,female,group E,some college,75,91,89
+278,179017,female,group C,some college,48,67,60
+279,110843,female,group C,high school,54,78,69
+280,115293,female,group D,bachelor's degree,61,75,78
+281,132380,female,group C,associate's degree,63,72,68
+282,129134,male,group D,bachelor's degree,67,57,58
+283,158754,male,group A,high school,75,75,70
+284,116351,female,group D,associate's degree,49,63,73
+285,181799,female,group C,some high school,81,95,88
+286,131357,female,group E,bachelor's degree,49,50,51
+287,137093,male,group E,associate's degree,100,92,93
+288,193181,male,group E,some high school,53,52,41
+289,161065,male,group C,some high school,68,71,69
+290,92930,female,group C,some college,83,84,90
+291,86746,female,group D,some college,66,74,76
+292,156882,female,group B,some high school,40,38,40
+293,209535,male,group E,some college,87,78,80
+294,72980,female,group B,some high school,40,40,43
+295,106745,male,group C,high school,71,80,70
+296,126477,male,group C,associate's degree,69,69,63
+297,87195,male,group A,some high school,48,56,53
+298,133712,male,group C,some high school,67,64,57
+299,69975,female,group C,high school,54,73,73
+300,124539,male,group C,high school,35,33,27
+301,91275,female,group E,some high school,72,70,72
+302,209956,female,group E,some college,85,88,81
+303,126661,male,group B,some college,85,60,61
+304,166810,female,group A,some college,61,82,81
+305,173284,male,group B,some college,71,68,64
+306,213836,female,group E,bachelor's degree,71,75,72
+307,136891,female,group D,associate's degree,91,100,99
+308,98403,female,group B,some college,55,70,65
+309,96851,male,group C,some high school,49,50,41
+310,69907,male,group A,associate's degree,95,86,88
+311,121263,female,group C,high school,93,94,94
+312,137549,female,group C,some high school,79,86,84
+313,134609,female,group C,some college,54,60,56
+314,88627,male,group E,bachelor's degree,74,84,75
+315,174076,male,group B,some high school,36,32,31
+316,190756,male,group D,bachelor's degree,91,90,92
+317,73686,male,group C,bachelor's degree,58,62,53
+318,159168,male,group B,some college,48,48,45
+319,159822,male,group B,bachelor's degree,70,68,70
+320,205952,male,group A,some college,67,68,68
+321,153429,male,group C,master's degree,64,69,66
+322,201587,female,group D,associate's degree,57,74,69
+323,99799,female,group C,associate's degree,46,69,64
+324,78269,female,group E,some high school,72,74,69
+325,74922,female,group D,master's degree,75,81,84
+326,190892,female,group B,high school,59,68,62
+327,72193,male,group A,bachelor's degree,83,76,75
+328,136661,male,group D,high school,61,63,60
+329,170326,female,group D,associate's degree,72,80,79
+330,105518,female,group B,some college,69,88,94
+331,208997,male,group A,some college,50,45,42
+332,202786,male,group D,some high school,70,65,56
+333,144035,male,group C,bachelor's degree,68,55,59
+334,191943,female,group C,bachelor's degree,51,61,62
+335,134448,male,group D,some high school,61,59,63
+336,85780,female,group E,some high school,75,80,80
+337,114036,female,group B,high school,60,72,66
+338,190954,male,group C,associate's degree,45,41,43
+339,79876,male,group D,some college,72,72,73
+340,210467,male,group A,bachelor's degree,98,94,84
+341,184093,female,group A,master's degree,60,72,73
+342,78887,male,group C,associate's degree,74,64,66
+343,111488,male,group A,high school,48,49,47
+344,142168,male,group C,high school,85,67,66
+345,123208,female,group D,associate's degree,50,50,54
+346,68190,female,group C,some high school,42,58,52
+347,195546,female,group E,some college,75,85,82
+348,216010,female,group D,some college,68,78,78
+349,118378,female,group A,some high school,43,50,44
+350,94745,female,group B,high school,78,83,78
+351,189194,male,group D,high school,79,84,84
+352,218640,male,group C,some high school,74,78,72
+353,145196,male,group C,some college,76,73,73
+354,172164,male,group C,bachelor's degree,56,56,51
+355,85167,male,group D,some high school,83,75,76
+356,131715,female,group A,some college,57,60,67
+357,78794,female,group C,bachelor's degree,60,69,72
+358,71367,male,group A,some high school,71,75,64
+359,133546,male,group C,some high school,55,55,48
+360,122978,female,group C,bachelor's degree,59,71,67
+361,91701,male,group C,associate's degree,64,72,68
+362,204684,male,group A,bachelor's degree,77,85,80
+363,206217,male,group C,some high school,49,49,41
+364,130351,female,group D,bachelor's degree,50,64,63
+365,103649,female,group D,high school,57,67,72
+366,94053,male,group C,some college,58,60,51
+367,126826,female,group C,some college,56,69,61
+368,193916,male,group C,associate's degree,84,78,74
+369,92184,female,group D,associate's degree,61,72,65
+370,126525,male,group C,bachelor's degree,61,58,64
+371,106573,male,group D,master's degree,93,87,82
+372,174758,male,group E,associate's degree,69,75,73
+373,71621,male,group E,associate's degree,92,96,94
+374,100131,female,group C,high school,59,76,73
+375,67131,male,group B,some college,68,68,65
+376,189409,female,group B,associate's degree,57,70,66
+377,121246,male,group C,associate's degree,92,92,89
+378,216106,female,group C,high school,66,74,75
+379,139540,male,group C,some high school,57,61,59
+380,183246,female,group B,associate's degree,63,78,80
+381,87773,male,group B,high school,40,33,32
+382,140305,male,group D,associate's degree,60,56,52
+383,156672,male,group B,master's degree,72,67,64
+384,67333,female,group B,some high school,77,78,86
+385,80966,female,group A,some college,51,62,63
+386,188789,male,group B,high school,77,72,73
+387,122454,female,group A,some high school,47,64,59
+388,133287,male,group D,bachelor's degree,71,67,66
+389,177166,female,group B,associate's degree,65,80,78
+390,103821,male,group D,some college,66,67,67
+391,153616,male,group B,some high school,59,60,61
+392,127807,female,group A,some high school,47,54,54
+393,135788,male,group B,bachelor's degree,89,98,90
+394,190343,male,group E,high school,68,64,59
+395,187502,male,group E,some high school,99,83,83
+396,165754,male,group B,some college,60,59,56
+397,109646,male,group C,some high school,49,45,39
+398,66528,male,group D,some college,71,70,67
+399,147725,male,group C,some high school,87,87,76
+400,208734,female,group D,master's degree,92,87,97
+401,219031,female,group B,high school,65,63,60
+402,146232,female,group D,high school,59,59,63
+403,95221,female,group E,some high school,61,64,67
+404,154221,female,group C,some college,49,50,58
+405,131520,female,group C,associate's degree,50,57,57
+406,180772,male,group A,some high school,63,62,58
+407,219373,male,group D,some high school,67,65,60
+408,105814,male,group E,high school,83,76,69
+409,135079,male,group A,high school,63,60,56
+410,184689,female,group B,high school,86,94,88
+411,66535,female,group B,some college,53,60,60
+412,77191,male,group E,master's degree,92,89,80
+413,133092,male,group E,master's degree,73,71,68
+414,213385,male,group C,high school,84,77,81
+415,113509,male,group D,some high school,44,48,51
+416,112736,female,group A,associate's degree,69,72,65
+417,133080,male,group D,some high school,50,49,55
+418,213175,female,group C,bachelor's degree,62,72,73
+419,106042,male,group D,bachelor's degree,72,74,71
+420,150089,male,group D,master's degree,84,74,79
+421,78714,female,group A,some high school,64,88,85
+422,159426,male,group B,high school,56,63,61
+423,115234,female,group A,some high school,45,54,53
+424,203068,female,group E,master's degree,84,86,96
+425,151849,female,group A,some high school,59,69,69
+426,161342,female,group E,some college,45,49,54
+427,67537,female,group A,bachelor's degree,76,83,89
+428,108424,female,group C,high school,53,78,69
+429,138336,male,group C,some college,71,66,69
+430,193298,male,group D,associate's degree,66,66,69
+431,153729,female,group A,bachelor's degree,79,81,90
+432,159517,female,group C,some high school,42,50,45
+433,209712,male,group D,bachelor's degree,72,75,69
+434,117429,female,group C,associate's degree,98,100,100
+435,123599,female,group C,some college,25,43,37
+436,68622,female,group E,bachelor's degree,83,97,100
+437,173835,female,group D,associate's degree,78,79,85
+438,143280,male,group E,associate's degree,100,99,97
+439,127290,male,group B,associate's degree,57,44,47
+440,126077,female,group D,bachelor's degree,70,75,73
+441,138634,female,group C,some high school,60,65,70
+442,157235,female,group E,associate's degree,91,90,82
+443,85117,female,group D,associate's degree,57,63,67
+444,82016,female,group E,bachelor's degree,65,78,75
+445,122043,male,group C,associate's degree,78,70,68
+446,177568,female,group D,associate's degree,75,89,93
+447,147408,male,group D,master's degree,100,100,100
+448,166748,female,group E,high school,65,76,73
+449,211817,male,group A,bachelor's degree,84,86,86
+450,146741,male,group D,some college,65,64,60
+451,183706,male,group B,high school,77,72,61
+452,154288,male,group C,some high school,68,59,58
+453,117215,male,group C,associate's degree,75,71,66
+454,126900,male,group B,master's degree,58,62,60
+455,202969,male,group C,some high school,77,80,76
+456,157657,female,group E,associate's degree,84,97,91
+457,186080,female,group D,high school,47,53,56
+458,139429,female,group B,some college,74,78,73
+459,145481,male,group E,some high school,48,48,45
+460,189757,male,group B,bachelor's degree,75,81,77
+461,204111,male,group D,associate's degree,71,70,68
+462,101656,male,group B,some college,70,63,63
+463,217096,female,group C,high school,61,69,68
+464,92609,male,group B,some college,68,60,60
+465,174086,male,group C,some high school,75,74,70
+466,142051,female,group B,some high school,67,72,78
+467,218740,male,group B,some college,92,91,95
+468,93079,male,group E,some high school,60,59,48
+469,125765,male,group B,master's degree,78,78,78
+470,210301,female,group E,some high school,80,82,77
+471,122335,female,group E,associate's degree,77,69,75
+472,101657,female,group B,some high school,57,66,67
+473,173054,female,group B,high school,22,51,39
+474,192559,female,group D,associate's degree,35,42,41
+475,163578,female,group C,high school,56,70,69
+476,138723,female,group A,high school,82,97,87
+477,172207,female,group C,associate's degree,41,43,45
+478,128108,female,group C,some college,72,85,87
+479,96584,female,group B,high school,39,50,42
+480,115664,male,group C,associate's degree,66,69,62
+481,188713,male,group A,associate's degree,56,58,47
+482,97827,male,group B,some college,41,53,47
+483,101345,male,group D,some college,84,74,74
+484,105004,male,group B,some college,80,74,80
+485,180943,female,group D,associate's degree,88,100,100
+486,121834,male,group C,high school,65,62,62
+487,115330,female,group D,associate's degree,83,93,99
+488,203263,male,group B,associate's degree,51,52,47
+489,195720,male,group D,associate's degree,89,85,90
+490,205141,female,group B,high school,52,54,52
+491,90348,male,group E,some college,97,88,85
+492,197853,male,group E,associate's degree,65,61,58
+493,104939,male,group C,some high school,74,68,68
+494,167962,male,group C,some college,44,52,47
+495,123419,male,group C,some high school,47,47,46
+496,102423,male,group E,some college,95,79,86
+497,143441,male,group E,associate's degree,62,66,57
+498,78752,male,group E,high school,68,60,51
+499,211399,male,group D,some college,43,36,39
+500,80418,male,group B,some college,45,45,33
+501,180813,male,group B,associate's degree,94,83,80
+502,150679,male,group C,associate's degree,78,70,73
+503,106264,male,group B,some college,54,61,49
+504,181714,female,group B,bachelor's degree,30,48,42
+505,86290,male,group E,some college,69,66,59
+506,77358,male,group C,high school,74,66,66
+507,217920,male,group B,some high school,73,69,69
+508,179016,female,group C,some college,85,94,92
+509,174547,female,group D,some college,60,70,72
+510,159277,female,group B,high school,58,66,67
+511,122405,male,group B,associate's degree,59,57,60
+512,77385,male,group C,associate's degree,58,49,46
+513,202906,female,group B,associate's degree,75,87,80
+514,193204,male,group C,associate's degree,53,41,43
+515,112581,male,group C,some high school,39,33,31
+516,180437,male,group C,high school,48,44,38
+517,156179,female,group E,master's degree,70,69,70
+518,157713,female,group D,high school,44,56,64
+519,86567,female,group C,high school,54,71,67
+520,69121,female,group C,associate's degree,69,75,73
+521,108124,male,group D,some college,76,63,65
+522,196198,male,group C,some high school,72,63,59
+523,82191,female,group C,some college,71,82,79
+524,118629,male,group C,high school,46,35,28
+525,197824,female,group D,some college,72,77,74
+526,85675,female,group C,bachelor's degree,69,80,85
+527,153731,male,group C,some high school,54,50,41
+528,177705,female,group B,some college,51,55,64
+529,77300,male,group D,some college,75,72,73
+530,142042,male,group A,some college,71,68,72
+531,77102,male,group E,high school,88,78,70
+532,214461,male,group E,high school,98,89,85
+533,187900,male,group D,high school,58,54,52
+534,96568,male,group D,bachelor's degree,69,73,64
+535,93449,female,group D,high school,69,73,78
+536,98567,male,group B,high school,87,82,82
+537,75834,male,group C,high school,80,71,67
+538,158700,male,group D,associate's degree,86,87,76
+539,88903,female,group D,some college,67,69,70
+540,126777,female,group D,bachelor's degree,63,76,79
+541,154604,male,group D,some high school,79,72,75
+542,136577,female,group E,associate's degree,81,80,78
+543,189552,male,group B,some high school,70,63,64
+544,213013,female,group C,some high school,67,68,67
+545,152021,male,group D,bachelor's degree,76,69,77
+546,66591,male,group C,some college,62,66,59
+547,73468,male,group B,associate's degree,73,72,76
+548,87892,male,group D,associate's degree,91,84,82
+549,210764,female,group D,some college,60,72,69
+550,92677,male,group C,some high school,59,66,59
+551,75772,female,group D,some high school,61,72,69
+552,159479,female,group C,some college,78,82,78
+553,104409,female,group B,some high school,72,78,73
+554,121110,female,group E,some high school,62,66,68
+555,156507,male,group B,bachelor's degree,63,71,73
+556,71122,female,group E,high school,69,79,71
+557,79176,male,group D,high school,53,42,42
+558,213462,female,group C,master's degree,86,94,94
+559,172321,female,group C,high school,66,82,76
+560,218569,female,group D,bachelor's degree,59,59,61
+561,177060,female,group C,associate's degree,64,77,78
+562,214044,female,group B,some college,44,52,54
+563,103007,female,group C,high school,60,79,81
+564,105954,male,group D,associate's degree,59,63,62
+565,196438,female,group D,associate's degree,69,83,89
+566,173386,male,group B,some high school,70,69,65
+567,184085,male,group D,master's degree,99,100,99
+568,158742,female,group B,bachelor's degree,33,40,44
+569,148521,male,group E,some college,95,89,89
+570,165545,male,group D,master's degree,100,100,100
+571,179982,female,group D,associate's degree,74,87,87
+572,163960,female,group D,some high school,68,74,72
+573,117837,male,group D,some college,81,77,79
+574,68450,female,group B,some high school,68,77,79
+575,192481,female,group B,bachelor's degree,48,54,56
+576,77818,female,group D,some college,26,42,40
+577,122157,female,group E,master's degree,72,71,77
+578,126075,male,group C,some college,80,65,62
+579,180271,male,group D,master's degree,72,72,71
+580,204325,female,group B,some college,56,59,62
+581,198291,female,group C,bachelor's degree,68,81,81
+582,206396,female,group D,some college,52,71,66
+583,158850,female,group C,some high school,74,90,85
+584,74718,female,group D,some college,69,80,83
+585,120013,female,group E,bachelor's degree,82,92,87
+586,214688,male,group C,master's degree,67,71,63
+587,117829,male,group A,some college,39,40,35
+588,114717,male,group A,associate's degree,62,62,67
+589,138944,female,group C,some college,56,73,68
+590,155149,male,group D,high school,51,52,47
+591,173407,female,group E,some college,56,60,60
+592,153871,female,group E,high school,49,61,49
+593,99442,male,group C,high school,85,93,89
+594,125809,male,group C,some high school,56,58,49
+595,189776,male,group E,associate's degree,73,60,68
+596,173292,male,group E,some high school,60,48,48
+597,215705,female,group D,some college,79,84,87
+598,83110,female,group B,high school,44,50,53
+599,109156,male,group D,associate's degree,96,93,100
+600,84601,female,group C,high school,72,82,80
+601,188720,female,group B,master's degree,65,83,87
+602,141717,female,group C,bachelor's degree,52,63,64
+603,184730,female,group C,associate's degree,70,85,80
+604,196985,female,group C,some college,79,78,74
+605,66001,male,group D,some college,69,69,68
+606,206112,male,group D,some high school,65,66,63
+607,214200,male,group B,associate's degree,60,55,56
+608,195699,male,group C,some college,59,53,48
+609,121991,male,group C,high school,56,52,53
+610,172852,female,group C,some college,56,65,66
+611,141880,male,group B,high school,61,57,50
+612,194775,female,group E,some college,87,93,97
+613,176601,female,group B,high school,49,66,63
+614,155472,female,group B,associate's degree,81,95,96
+615,153917,female,group C,some college,74,77,76
+616,147206,female,group B,some college,50,62,66
+617,153601,female,group C,high school,64,71,77
+618,153473,female,group C,high school,67,71,67
+619,149082,male,group D,associate's degree,64,63,61
+620,206656,female,group D,associate's degree,64,77,78
+621,72358,male,group D,some college,37,34,35
+622,150992,female,group B,some college,43,55,61
+623,123405,female,group C,some college,50,67,55
+624,168918,male,group D,some high school,54,57,51
+625,218101,female,group A,master's degree,50,62,68
+626,116693,female,group B,some college,29,48,48
+627,118357,female,group C,some college,57,71,68
+628,214664,male,group A,some college,71,75,74
+629,112932,female,group D,bachelor's degree,52,66,60
+630,156122,male,group C,some high school,37,37,29
+631,164470,male,group B,some high school,65,61,57
+632,89633,male,group B,some high school,64,67,68
+633,218660,female,group C,some college,47,49,54
+634,168791,male,group C,associate's degree,64,70,69
+635,158909,female,group D,master's degree,71,87,84
+636,88670,male,group D,bachelor's degree,69,67,65
+637,176811,female,group D,associate's degree,80,72,77
+638,117926,female,group C,some high school,46,57,63
+639,199875,male,group C,bachelor's degree,76,67,60
+640,170265,female,group A,some high school,20,40,33
+641,169832,male,group D,some high school,68,61,66
+642,185154,male,group E,some college,88,80,75
+643,214409,female,group D,high school,93,96,99
+644,117710,female,group A,some college,57,74,72
+645,178288,female,group D,high school,84,85,83
+646,195454,female,group C,some high school,73,89,84
+647,141261,female,group D,high school,69,72,72
+648,118973,female,group C,some high school,49,65,68
+649,206791,female,group E,bachelor's degree,77,87,81
+650,165010,female,group C,high school,82,92,90
+651,143399,female,group E,some high school,80,88,81
+652,205737,male,group C,bachelor's degree,80,78,84
+653,90335,female,group A,high school,63,69,70
+654,139813,female,group C,some college,70,79,71
+655,203197,male,group C,some college,62,57,53
+656,182911,male,group D,some college,86,78,74
+657,118572,female,group A,some high school,69,76,72
+658,66703,female,group E,associate's degree,63,66,68
+659,77254,male,group E,bachelor's degree,80,76,69
+660,134702,female,group D,some college,46,52,58
+661,122037,female,group B,associate's degree,60,71,70
+662,95801,male,group D,master's degree,72,63,57
+663,165049,female,group D,associate's degree,73,85,87
+664,196577,male,group A,some college,58,50,51
+665,72416,male,group E,some college,81,75,73
+666,76077,female,group D,high school,67,73,85
+667,117725,male,group B,associate's degree,67,69,61
+668,106910,female,group B,high school,82,93,87
+669,209188,male,group C,some college,50,56,57
+670,124555,male,group B,high school,78,70,67
+671,100607,male,group D,high school,84,86,86
+672,80086,female,group D,high school,75,92,89
+673,114334,female,group B,some college,64,73,71
+674,75417,male,group D,associate's degree,59,71,70
+675,119815,male,group D,some college,83,60,66
+676,79310,male,group C,some college,60,53,57
+677,203286,female,group C,associate's degree,56,72,67
+678,158021,male,group A,some high school,48,52,48
+679,175043,male,group E,some college,79,81,83
+680,138604,female,group E,associate's degree,81,82,77
+681,126269,male,group B,high school,90,77,88
+682,151092,female,group C,some high school,61,70,72
+683,188678,male,group A,some college,70,68,57
+684,177614,male,group C,high school,83,76,72
+685,104516,male,group A,some high school,63,64,65
+686,106239,female,group C,some college,60,67,59
+687,145540,male,group B,high school,66,58,61
+688,164283,male,group D,some college,52,50,55
+689,83690,female,group C,some college,72,79,80
+690,186469,male,group C,some high school,86,79,74
+691,143969,male,group C,associate's degree,99,93,95
+692,218747,male,group C,high school,71,68,63
+693,185907,male,group D,associate's degree,88,85,88
+694,195668,male,group A,associate's degree,50,44,40
+695,172270,female,group B,bachelor's degree,60,73,73
+696,205301,female,group C,master's degree,72,78,82
+697,72630,male,group D,bachelor's degree,74,70,75
+698,127927,female,group C,associate's degree,68,75,78
+699,158380,male,group B,associate's degree,67,65,62
+700,95360,male,group D,some high school,72,60,60
+701,158162,male,group D,high school,56,53,53
+702,190930,male,group B,some high school,70,67,58
+703,77096,male,group A,high school,51,51,56
+704,66959,male,group C,associate's degree,66,75,70
+705,212878,female,group B,associate's degree,55,64,63
+706,199896,male,group A,some college,48,49,51
+707,107162,male,group E,high school,78,72,68
+708,189691,male,group B,high school,81,73,73
+709,178329,female,group D,associate's degree,41,62,61
+710,99933,male,group C,master's degree,100,96,97
+711,89369,female,group C,some college,71,89,82
+712,188745,female,group C,associate's degree,68,72,69
+713,68738,female,group E,high school,77,78,75
+714,107425,male,group D,some high school,61,58,55
+715,119566,male,group C,some college,39,30,30
+716,208904,female,group A,master's degree,50,71,66
+717,131311,male,group E,high school,80,68,68
+718,89542,female,group E,some high school,67,70,66
+719,175469,male,group D,some high school,91,92,94
+720,130990,female,group C,high school,44,58,47
+721,219014,male,group E,some college,72,78,72
+722,180681,female,group D,some high school,57,59,60
+723,94051,female,group C,some college,79,93,93
+724,212908,female,group B,some high school,48,51,58
+725,188045,male,group B,bachelor's degree,67,57,55
+726,205233,male,group A,associate's degree,86,86,84
+727,124949,female,group D,associate's degree,72,73,70
+728,79037,female,group B,some high school,65,85,75
+729,207984,male,group D,some high school,79,75,73
+730,171487,male,group C,some college,73,78,73
+731,152209,female,group B,some high school,60,74,70
+732,209796,male,group B,high school,37,35,28
+733,165870,female,group C,associate's degree,56,72,61
+734,76274,female,group E,high school,87,93,94
+735,199793,male,group B,some college,52,46,46
+736,171468,male,group D,some high school,73,64,58
+737,172587,male,group D,bachelor's degree,100,95,97
+738,197038,female,group C,associate's degree,69,81,84
+739,127536,male,group E,some college,97,91,92
+740,130472,female,group D,associate's degree,76,74,86
+741,149846,male,group C,some college,57,54,54
+742,73164,female,group E,some high school,53,71,66
+743,93213,male,group C,high school,46,42,41
+744,113733,male,group D,some high school,72,64,62
+745,191396,female,group A,associate's degree,62,76,68
+746,116770,male,group E,some college,56,53,56
+747,198051,male,group D,some college,77,71,73
+748,87824,male,group C,high school,80,70,70
+749,147823,female,group E,some high school,64,74,79
+750,206196,female,group E,some college,46,59,59
+751,79897,male,group A,some high school,68,62,59
+752,198022,female,group D,bachelor's degree,82,86,89
+753,67978,female,group E,associate's degree,77,84,84
+754,81814,female,group C,bachelor's degree,95,100,100
+755,154133,female,group D,bachelor's degree,67,69,71
+756,205466,male,group E,associate's degree,63,60,54
+757,136826,male,group B,bachelor's degree,75,68,69
+758,71049,female,group C,bachelor's degree,76,99,97
+759,179817,male,group D,some college,56,61,54
+760,170745,male,group C,some high school,77,88,78
+761,106163,male,group C,some high school,56,57,50
+762,146313,male,group E,some college,72,62,62
+763,126314,female,group E,associate's degree,40,47,47
+764,94513,female,group E,some college,75,67,71
+765,184188,male,group D,some college,76,74,70
+766,155323,male,group C,bachelor's degree,74,68,64
+767,166479,male,group D,bachelor's degree,94,79,80
+768,92563,male,group A,some high school,28,33,28
+769,79746,female,group B,some college,63,75,68
+770,185083,male,group C,some college,40,35,29
+771,82448,male,group C,high school,73,77,69
+772,171103,female,group C,some college,37,53,51
+773,211591,female,group B,bachelor's degree,64,79,73
+774,138182,male,group C,associate's degree,79,70,71
+775,122001,female,group B,associate's degree,67,72,69
+776,101709,male,group D,associate's degree,88,90,89
+777,157789,female,group B,some high school,51,56,60
+778,94854,female,group C,associate's degree,48,65,57
+779,103480,male,group C,associate's degree,65,69,74
+780,158888,male,group C,bachelor's degree,86,73,82
+781,89435,male,group A,some college,78,80,78
+782,163101,female,group B,high school,84,92,95
+783,203113,male,group A,some college,55,62,58
+784,103651,male,group C,some high school,62,63,58
+785,183410,male,group C,associate's degree,67,73,64
+786,175890,female,group B,some high school,59,60,66
+787,197558,female,group E,some high school,55,70,69
+788,172346,male,group D,bachelor's degree,81,75,75
+789,67376,female,group D,some college,59,71,67
+790,164049,male,group C,high school,65,69,56
+791,165946,male,group C,high school,68,58,59
+792,67762,male,group D,some high school,72,66,69
+793,211306,male,group A,master's degree,83,74,76
+794,83621,female,group C,bachelor's degree,56,74,72
+795,177770,male,group C,high school,69,67,68
+796,163509,male,group C,associate's degree,51,44,43
+797,133405,male,group D,master's degree,93,74,81
+798,138721,male,group D,some college,48,37,39
+799,211561,female,group C,associate's degree,66,82,78
+800,86057,male,group D,some high school,72,75,72
+801,189581,female,group D,high school,44,63,59
+802,91486,female,group D,bachelor's degree,77,71,80
+803,141533,male,group D,some high school,39,40,37
+804,154770,male,group E,associate's degree,65,64,58
+805,152747,female,group C,high school,80,98,92
+806,75415,male,group B,some high school,63,63,62
+807,151824,male,group C,some college,58,45,44
+808,77177,male,group C,bachelor's degree,89,84,84
+809,140632,female,group D,some high school,54,56,58
+810,218588,female,group D,some college,80,82,85
+811,88649,female,group B,some high school,70,84,73
+812,161405,female,group E,some college,71,78,75
+813,163141,male,group A,some college,69,69,65
+814,78236,male,group A,bachelor's degree,71,64,60
+815,215378,female,group D,some high school,63,76,76
+816,113863,female,group C,bachelor's degree,88,100,100
+817,160763,female,group C,associate's degree,75,88,89
+818,100470,female,group B,associate's degree,48,68,62
+819,197038,male,group B,associate's degree,47,46,50
+820,186141,female,group C,associate's degree,71,76,76
+821,98331,female,group C,master's degree,92,94,96
+822,76111,male,group C,some college,66,76,68
+823,125183,female,group B,high school,59,64,63
+824,201449,male,group E,high school,67,57,50
+825,200165,female,group C,some college,54,66,61
+826,128064,female,group A,associate's degree,59,62,68
+827,183238,male,group D,master's degree,78,67,68
+828,183936,male,group E,high school,76,76,73
+829,135201,female,group A,some college,59,71,76
+830,155440,female,group E,associate's degree,85,86,83
+831,192910,female,group E,associate's degree,54,65,66
+832,101681,male,group C,high school,65,58,55
+833,136113,female,group A,some college,55,72,71
+834,165663,female,group D,some college,76,86,90
+835,126075,male,group B,some college,72,76,75
+836,204965,female,group C,some college,35,53,41
+837,120709,male,group D,master's degree,91,84,90
+838,103440,male,group C,some college,80,82,81
+839,155953,male,group D,bachelor's degree,56,62,65
+840,198547,female,group D,high school,72,76,75
+841,108666,male,group C,associate's degree,76,75,70
+842,194160,male,group C,high school,59,64,57
+843,212212,female,group D,associate's degree,76,82,76
+844,80049,female,group D,some college,100,96,100
+845,144773,female,group D,high school,61,75,72
+846,124183,male,group B,high school,60,62,61
+847,206646,female,group E,master's degree,100,100,100
+848,125300,male,group E,some college,46,47,43
+849,114787,male,group D,some high school,65,55,53
+850,113397,female,group C,some high school,58,74,70
+851,153734,male,group B,associate's degree,42,40,34
+852,70152,female,group D,some college,56,63,70
+853,181546,male,group B,some high school,67,65,59
+854,103102,male,group C,master's degree,81,72,71
+855,113895,female,group B,associate's degree,73,81,80
+856,138527,female,group E,high school,46,49,56
+857,196094,male,group C,some college,52,52,53
+858,214012,male,group D,bachelor's degree,84,72,78
+859,143501,male,group C,associate's degree,69,73,67
+860,124628,female,group D,some college,42,65,66
+861,213273,male,group D,high school,74,83,78
+862,211178,male,group D,associate's degree,62,66,60
+863,132476,female,group B,high school,58,67,63
+864,89439,female,group D,associate's degree,65,83,79
+865,182879,male,group D,bachelor's degree,96,84,82
+866,154591,male,group C,some college,53,55,50
+867,161424,male,group C,associate's degree,82,63,57
+868,199659,female,group E,associate's degree,75,77,82
+869,85926,male,group B,associate's degree,63,63,51
+870,113427,female,group D,high school,46,62,64
+871,188190,male,group C,some college,42,40,31
+872,147520,female,group B,associate's degree,50,50,49
+873,165753,male,group B,some college,85,80,75
+874,153822,female,group C,associate's degree,66,78,75
+875,70814,male,group C,some high school,49,55,45
+876,155002,male,group C,some college,73,68,68
+877,148437,male,group D,some high school,72,76,74
+878,185737,female,group D,high school,63,62,72
+879,199906,male,group C,some high school,66,69,63
+880,203264,female,group E,associate's degree,95,100,100
+881,151712,male,group C,master's degree,69,59,57
+882,139816,female,group B,high school,75,75,73
+883,148530,female,group B,associate's degree,64,72,72
+884,165556,male,group D,master's degree,75,74,78
+885,182720,male,group B,some college,78,71,71
+886,112411,male,group B,some college,62,71,57
+887,117227,female,group E,high school,73,83,80
+888,150442,female,group D,associate's degree,65,78,84
+889,191410,female,group C,some high school,64,71,65
+890,164596,female,group D,high school,55,66,73
+891,129166,male,group E,some college,74,61,65
+892,146392,female,group B,some college,66,74,76
+893,178771,female,group B,master's degree,99,97,99
+894,120258,male,group D,associate's degree,90,91,88
+895,122919,female,group E,associate's degree,65,72,68
+896,70433,female,group C,master's degree,58,70,71
+897,165842,male,group B,master's degree,82,74,69
+898,178065,female,group C,associate's degree,65,68,65
+899,211851,female,group B,associate's degree,64,68,69
+900,165337,female,group C,some college,79,73,80
+901,111225,male,group E,bachelor's degree,98,94,83
+902,188306,female,group D,associate's degree,86,99,100
+903,132174,female,group C,bachelor's degree,55,60,63
+904,201763,male,group B,some college,69,76,76
+905,204177,male,group D,bachelor's degree,52,55,57
+906,158888,female,group B,high school,57,62,59
+907,145004,female,group C,some college,67,73,81
+908,98746,female,group B,associate's degree,61,64,62
+909,76365,female,group D,some college,55,69,65
+910,211774,male,group E,some college,74,62,55
+911,211496,male,group D,associate's degree,43,38,36
+912,152980,female,group C,bachelor's degree,50,72,73
+913,191442,female,group A,associate's degree,89,90,86
+914,71818,male,group C,associate's degree,62,67,61
+915,198657,male,group D,some college,98,79,81
+916,143774,male,group D,some college,49,54,52
+917,187577,female,group C,high school,71,70,80
+918,154395,female,group D,bachelor's degree,43,46,62
+919,72588,female,group D,associate's degree,58,71,74
+920,156525,male,group B,some college,63,52,54
+921,66944,female,group C,associate's degree,68,71,70
+922,140076,female,group B,associate's degree,63,71,67
+923,94834,male,group A,some high school,56,50,52
+924,136194,female,group A,high school,49,59,58
+925,181065,female,group D,associate's degree,97,95,94
+926,84499,female,group B,some high school,53,59,57
+927,189581,male,group C,some high school,86,81,78
+928,196962,female,group B,bachelor's degree,75,79,84
+929,165448,male,group A,some college,91,77,88
+930,116033,male,group D,high school,91,79,82
+931,107581,male,group E,some high school,77,63,64
+932,122716,male,group C,high school,62,60,58
+933,100074,male,group C,high school,58,69,65
+934,193194,male,group A,some high school,72,70,66
+935,139900,male,group B,some college,59,60,51
+936,108284,male,group B,some college,77,69,64
+937,170628,male,group B,high school,47,45,39
+938,90584,male,group E,some high school,85,83,75
+939,79807,female,group A,some high school,68,78,75
+940,145629,male,group D,associate's degree,70,72,72
+941,128993,female,group E,bachelor's degree,69,79,81
+942,206427,female,group D,some high school,66,61,69
+943,162822,male,group C,some high school,59,55,51
+944,99918,male,group D,master's degree,70,60,69
+945,185972,male,group C,some high school,70,70,68
+946,132024,female,group B,some high school,54,61,56
+947,211089,male,group D,some college,79,64,67
+948,93820,female,group E,high school,74,73,67
+949,205790,female,group C,some high school,53,71,68
+950,142064,female,group C,bachelor's degree,83,96,92
+951,117766,female,group C,some college,69,82,76
+952,159978,male,group D,associate's degree,92,82,81
+953,116771,male,group D,bachelor's degree,85,76,75
+954,117632,male,group D,bachelor's degree,64,70,65
+955,134957,male,group D,high school,46,48,41
+956,85439,female,group C,some college,37,49,39
+957,218889,male,group C,some high school,75,81,73
+958,71105,female,group C,some college,56,44,54
+959,189613,female,group D,bachelor's degree,92,100,100
+960,169177,female,group D,some high school,41,57,51
+961,160612,male,group D,some college,58,47,48
+962,127810,female,group D,some college,81,93,85
+963,77048,male,group C,associate's degree,60,65,65
+964,154230,female,group B,high school,74,79,79
+965,157809,male,group D,some high school,46,48,41
+966,211673,female,group A,associate's degree,83,100,98
+967,114120,female,group B,high school,62,72,72
+968,181298,male,group C,some college,53,50,53
+969,101730,male,group C,some college,59,49,50
+970,117285,male,group B,high school,63,67,62
+971,202469,female,group E,bachelor's degree,64,69,79
+972,181994,female,group D,associate's degree,83,89,98
+973,103092,male,group A,some high school,52,55,47
+974,93740,female,group B,some college,33,44,41
+975,218328,female,group B,high school,50,55,55
+976,66718,male,group D,high school,64,71,66
+977,157529,female,group C,master's degree,69,81,82
+978,201969,female,group A,some college,57,73,76
+979,194332,male,group C,some college,98,97,94
+980,103625,male,group E,high school,84,75,63
+981,84614,female,group C,some college,47,64,62
+982,96487,male,group C,some college,69,62,68
+983,209124,female,group D,associate's degree,64,77,75
+984,114296,female,group B,some college,58,69,67
+985,164576,male,group E,some college,90,87,81
+986,192432,male,group B,some college,41,46,42
+987,172710,female,group E,high school,65,67,63
+988,91672,male,group B,bachelor's degree,50,35,31
+989,157667,male,group C,some college,57,46,40
+990,67485,male,group A,some high school,75,74,61
+991,90998,male,group A,associate's degree,79,75,71
+992,78421,male,group B,some college,86,98,90
+993,155392,female,group B,some high school,50,64,59
+994,113067,male,group B,some high school,46,45,41
+995,211525,male,group D,high school,56,59,60
+996,193865,female,group D,associate's degree,64,82,85
+997,116615,female,group E,some high school,82,88,88
+998,171036,female,group B,high school,64,78,76
+999,130711,female,group C,some high school,52,60,60
